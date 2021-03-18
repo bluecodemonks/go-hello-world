@@ -12,3 +12,9 @@ Run
 $ go-hello-world
 Hello World
 ```
+
+Uninstall
+
+```
+$ rm $GOPATH/bin/go-hello-world
+```
