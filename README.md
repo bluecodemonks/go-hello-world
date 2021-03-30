@@ -26,7 +26,7 @@ $ rm $GOPATH/bin/go-hello-world
 ## Rebase Example
 
 The `rebase-practice` branch of this repo may be use to practice interactive rebasing, which is a mechanism used to
-help you keep a clean commit histor3.
+help you keep a clean commit history.
 
 ```
 git checkout rebase-practice
