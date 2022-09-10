@@ -1,3 +1,6 @@
+This is a forked repository.
+Original repo: bluecodemonks/go-hello-world
+
 # go-hello-world
 
 Install
