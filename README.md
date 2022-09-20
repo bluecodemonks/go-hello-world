@@ -1,5 +1,7 @@
 # go-hello-world
 
+This is an example REPO
+
 Install
 
 ```
