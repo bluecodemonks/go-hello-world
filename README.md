@@ -4,7 +4,7 @@ This is an example repo
 Install
 
 ```
-go get github.com/bluecodemonks/go-hello-world
+go get github.com/dairounjou/go-hello-world
 ```
 
 Run
