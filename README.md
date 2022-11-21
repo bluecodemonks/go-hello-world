@@ -1,9 +1,10 @@
+This is an example repo
 # go-hello-world
 
 Install
 
 ```
-go get github.com/bluecodemonks/go-hello-world
+go get github.com/dairounjou/go-hello-world
 ```
 
 Run
