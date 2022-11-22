@@ -1,5 +1,8 @@
 # go-hello-world
 
+# some changes for demo purposes
+I've added this line of changed text!
+
 Install
 
 ```
