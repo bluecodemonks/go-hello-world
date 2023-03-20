@@ -12,3 +12,7 @@ Run
 $ go-hello-world
 Hello World
 ```
+
+Uninstall
+
+Figure it out yourself
