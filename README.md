@@ -13,8 +13,6 @@ $ go-hello-world
 Hello World
 ```
 
-```
-
 Uninstall
 
 ```
