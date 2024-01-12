@@ -1,4 +1,5 @@
 # go-hello-world
+This is an example repo.
 
 Install
 
