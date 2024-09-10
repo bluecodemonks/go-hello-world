@@ -12,3 +12,5 @@ Run
 $ go-hello-world
 Hello World
 ```
+
+THIS IS AN EXAMPLE REPO :)
