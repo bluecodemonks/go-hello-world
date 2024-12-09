@@ -1,4 +1,5 @@
 # go-hello-world
+This is an example repo.
 
 Install
 
@@ -11,4 +12,5 @@ Run
 ```
 $ go-hello-world
 Hello World
+
 ```
