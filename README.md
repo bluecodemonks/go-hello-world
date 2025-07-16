@@ -12,3 +12,11 @@ Run
 $ go-hello-world
 Hello World
 ```
+
+Execute
+
+```
+$ go-hello-world execute
+Hahaha
+
+```
